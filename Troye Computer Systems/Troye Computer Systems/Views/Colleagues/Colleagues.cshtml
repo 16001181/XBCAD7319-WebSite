@@ -1,4 +1,5 @@
-﻿@{
+﻿@using Troye_Computer_Systems.Models;
+@{
     Layout = null;
 }
 
@@ -8,11 +9,25 @@
 <head>
     <link href="@Url.Content("~/Style_Sheet/Colleagues.css")" rel="stylesheet" type="text/css" />
     <meta name="viewport" content="width=device-width" />
-    <title></title>
+    <title>Your Fellow Colleagues</title>
 </head>
 <body>
+
+    @model Troye_Computer_Systems.Models.Colleagues
+    <ul>
+        @foreach (var role in Model.FirstName)
+        {
+            <li>@role</li>
+        }
+    </ul>
+    <ul>
+        @foreach (var role in Model.Eamil)
+        {
+            <li>@role</li>
+        }
+    </ul>
     <div>
-    
+        @RenderBody()
     </div>
 </body>
 </html>

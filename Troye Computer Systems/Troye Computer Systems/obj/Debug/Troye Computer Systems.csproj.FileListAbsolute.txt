@@ -205,3 +205,9 @@ F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Comput
 F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
 F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml

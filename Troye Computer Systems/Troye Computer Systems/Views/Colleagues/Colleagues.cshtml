@@ -7,25 +7,42 @@
 
 <html>
 <head>
-    <link href="@Url.Content("~/Style_Sheet/Colleagues.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Style Sheet/Colleagues.css")" rel="stylesheet" type="text/css" />
     <meta name="viewport" content="width=device-width" />
     <title>Your Fellow Colleagues</title>
 </head>
 <body>
 
-    @model Troye_Computer_Systems.Models.Colleagues
-    <ul>
-        @foreach (var role in Model.FirstName)
-        {
-            <li>@role</li>
-        }
-    </ul>
-    <ul>
-        @foreach (var role in Model.Eamil)
-        {
-            <li>@role</li>
-        }
-    </ul>
+    @model List<Troye_Computer_Systems.Models.Colleagues>
+   
+        <table class="table">
+            <thead role="rowgroup">
+                <tr role="row">
+                    <th role="columnheader">Profile Picture</th>
+                    <th role="columnheader">Employee Number</th>
+                    <th role="columnheader">First Name </th>
+                    <th role="columnheader">Last Name </th>
+                    <th role="columnheader">Email</th>
+                    <th role="columnheader">Cell Number</th>
+                    <th role="columnheader">Skill</th>
+                </tr>
+            </thead>
+            @foreach (var d in Model)
+            {
+                <tr role="row">
+                   <td class="cell"><img class="resize" src="images/hiclipart.com-id_mjgcb.png" alt="Sample Photo" /></td>
+                    <td class="cell">@d.EmployeeId</td>
+                    <td class="cell">@d.FirstName</td>
+                    <td class="cell">@d.LastName</td>
+                    <td class="cell">@d.Email</td>
+                    <td class="cell">@d.Salary</td>
+                    <td class="cell">@d.Company</td>
+                 
+                </tr>
+            }
+        </table>
+    
+
     <div>
         @RenderBody()
     </div>

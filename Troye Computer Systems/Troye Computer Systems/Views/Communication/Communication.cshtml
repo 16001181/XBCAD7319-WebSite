@@ -10,6 +10,31 @@
     <title>Communication View</title>
 </head>
 <body>
+    <section class="section-dark">
+        @using (Html.BeginForm("postusingparameters", "Contact"))
+        {
+            <br />
+            <h1>Send me an email</h1>
+            <br />
+            <h2>Name</h2>
+            <input id="name" type="text" name="name" placeholder=" Your name here.." required="" />
+            <br />
+            <h2>Email address</h2>
+            <input id="emailAddress" type="text" name="emailAddress" placeholder="Your email address here.." required="" />
+            <br />
+            <h2>Subject</h2>
+            <input id="subject" type="text" name="subject" placeholder=" Subject line here.." required="" />
+            <br />
+            <h2>Message</h2>
+            <textarea id="message" rows="4" name="body" placeholder="Write something here...!!" required=""></textarea>
+            <br />
+            <div id="submit-button">
+                <button id="submit" type="submit">Submit</button>
+            </div>
+        }
+    </section>
+
+
     <div>
         @RenderBody()
     </div>

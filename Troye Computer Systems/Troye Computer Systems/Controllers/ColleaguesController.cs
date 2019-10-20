@@ -1,35 +1,44 @@
-﻿using FireSharp.Config;
-using FireSharp.Interfaces;
-using FireSharp.Response;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using Troye_Computer_Systems.Models;
+using FireSharp.Config;
+using FireSharp.Interfaces;
+using FireSharp.Response;
 
 namespace Troye_Computer_Systems.Controllers
 {
     public class ColleaguesController : Controller
     {
 
-        IFirebaseConfig config = new FirebaseConfig
-        {
-            AuthSecret = "3JjYU2MerFoAvR5N5yMOaQv3YdH5orw8skiMdXeW",
-            BasePath = "https://troye-computer-systems.firebaseio.com/"
-        };
-        IFirebaseClient client;
+     
 
         //public Colleagues g = new Colleagues();
         // GET: Colleagues
         //[RequireHttps]
         [HttpGet]
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
+            IFirebaseConfig config = new FirebaseConfig
+            {
+                AuthSecret = "3JjYU2MerFoAvR5N5yMOaQv3YdH5orw8skiMdXeW",
+                BasePath = "https://troye-computer-systems.firebaseio.com/"
+            };
+            IFirebaseClient client;
 
+            client = new FireSharp.FirebaseClient(config);
+            string h = "1";
+            string s = "1";
+            ///make sure that the spelling is correct to which table you want to look at or else there could be problems
+            FirebaseResponse response = await client.GetTaskAsync("Employees/" + h);
+            Colleagues obj = response.ResultAs<Colleagues>();
+             s = obj.FirstName;
 
 
             //while (true)
@@ -38,7 +47,7 @@ namespace Troye_Computer_Systems.Controllers
             //    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             //    request.ContentType = "Employees/json: charset=utf-8";
             //    HttpWebResponse responsss = request.GetResponse() as HttpWebResponse;
-                
+
             //    using (Stream responseStram = responsss.GetResponseStream())
             //    {
             //        StreamReader reader = new StreamReader(responseStram, Encoding.UTF8);
@@ -91,11 +100,12 @@ namespace Troye_Computer_Systems.Controllers
             //    { EmployeeId =6,FirstName="Nani",LastName="Kumar", Email="Nani.Kumar@gmail.com", Salary=24500, Company="Infosys", Dept="BPO" },
 
             //};
+
             emp = new List<Colleagues>()
             {
                 new Colleagues()
                 {
-                    EmployeeId =1,FirstName="Rakesh",LastName="Kalluri", Email="raki.kalluri@gmail.com", Salary=30000, Company="Summit", Dept="IT"
+                    EmployeeId =1,FirstName=s,LastName="Kalluri", Email="raki.kalluri@gmail.com", Salary=30000, Company="Summit", Dept="IT"
 
                 },
                 new Colleagues()

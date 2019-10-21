@@ -1,0 +1,40 @@
+﻿@using Troye_Computer_Systems.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="@Url.Content("~/Style Sheet/Colleagues.css")" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Your Fellow Colleagues</title>
+</head>
+<body>
+    <table class="table">
+        <thead role="rowgroup">
+            <tr role="row">
+                @foreach (System.Data.DataColumn col in Model.Columns)
+                {
+                    <th role="columnheader">@col.Caption</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (System.Data.DataRow row in Model.Rows)
+            {
+                <tr role="row">
+                    @foreach (var cell in row.ItemArray)
+                    {
+                        <td class="cell">@cell.ToString()</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

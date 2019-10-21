@@ -11,123 +11,68 @@ using Troye_Computer_Systems.Models;
 using FireSharp.Config;
 using FireSharp.Interfaces;
 using FireSharp.Response;
+using System.Diagnostics;
+using System.Data;
 
 namespace Troye_Computer_Systems.Controllers
 {
     public class ColleaguesController : Controller
     {
-
-     
-
+        //variable declarations
+        DataTable dataTable = new DataTable("Employees");
         //public Colleagues g = new Colleagues();
         // GET: Colleagues
         //[RequireHttps]
         [HttpGet]
         public async Task<ActionResult> Index()
         {
+            dataTable.Columns.Add(new DataColumn("Employee Number", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("First Name", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Last Name", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Email", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Cell Number", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Skill", typeof(string)));
+            //creates connection 3to firebase
             IFirebaseConfig config = new FirebaseConfig
             {
                 AuthSecret = "3JjYU2MerFoAvR5N5yMOaQv3YdH5orw8skiMdXeW",
                 BasePath = "https://troye-computer-systems.firebaseio.com/"
             };
             IFirebaseClient client;
-
             client = new FireSharp.FirebaseClient(config);
-            string h = "1";
-            string s = "1";
-            ///make sure that the spelling is correct to which table you want to look at or else there could be problems
-            FirebaseResponse response = await client.GetTaskAsync("Employees/" + h);
+            int counter = 0;
+            int i = 0;
+            FirebaseResponse response = await client.GetTaskAsync("Counter/node");
             Colleagues obj = response.ResultAs<Colleagues>();
-             s = obj.FirstName;
-
-
-            //while (true)
-            //{
-            //    string url = "https://troye-computer-systems.firebaseio.com/.json";
-            //    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
-            //    request.ContentType = "Employees/json: charset=utf-8";
-            //    HttpWebResponse responsss = request.GetResponse() as HttpWebResponse;
-
-            //    using (Stream responseStram = responsss.GetResponseStream())
-            //    {
-            //        StreamReader reader = new StreamReader(responseStram, Encoding.UTF8);
-            //        //Response.Write("<script>alert('Your text');</script>" + reader.ReadToEnd());
-            //    }
-            //}
-
-            //Colleagues col = new Colleagues
-            ////{
-            ////    FirstName = "Philip"
-            ////};
-            ////ViewBag.Message = col;
-            ///
-            //var model = Troye_Computer_Systems.Models.Colleagues.FirstName;
-            //return View("ColleaguesView", model);
-
-            //IFirebaseConfig config = new FirebaseConfig
-            //{
-            //    AuthSecret = "3JjYU2MerFoAvR5N5yMOaQv3YdH5orw8skiMdXeW",
-            //    BasePath = "https://troye-computer-systems.firebaseio.com/"
-            //};
-            //IFirebaseClient client;
-
-            //client = new FireSharp.FirebaseClient(config);
-            //if(client!=null)
-            //{
-            //    Response.Write("<script>alert('Your text');</script>");
-            //}
-
-
-            //Colleagues g = new Colleagues();
-            //List<Colleagues> c = new List<Colleagues>();
-            //c.Add(g);
-
-
-            List<Colleagues> emp = new List<Colleagues>();
-            //emp = new List<Colleagues>()
-            //{
-            //    new Colleagues()
-            //    { EmployeeId =1,FirstName="Rakesh",LastName="Kalluri", Email="raki.kalluri@gmail.com", Salary=30000, Company="Summit", Dept="IT" },
-            //    new Colleagues()
-            //    { EmployeeId =2,FirstName="Naresh",LastName="C", Email="Naresh.C@gmail.com", Salary=50000, Company="IBM", Dept="IT" },
-            //    new Colleagues()
-            //    { EmployeeId =3,FirstName="Madhu",LastName="K", Email="Madhu.K@gmail.com", Salary=20000, Company="HCl", Dept="IT" },
-            //    new Colleagues()
-            //    { EmployeeId =4,FirstName="Ali",LastName="MD", Email="Ali.MD@gmail.com", Salary=26700, Company="Tech Mahindra", Dept="BPO" },
-            //    new Colleagues()
-            //    { EmployeeId =5,FirstName="Chithu",LastName="Raju", Email="Chithu.Raju@gmail.com", Salary=25000, Company="Dell", Dept="BPO" },
-            //    new Colleagues()
-            //    { EmployeeId =6,FirstName="Nani",LastName="Kumar", Email="Nani.Kumar@gmail.com", Salary=24500, Company="Infosys", Dept="BPO" },
-
-            //};
-
-            emp = new List<Colleagues>()
-            {
-                new Colleagues()
+            //this finds out the size of the database with a counter in the table called counter node cnt
+            counter = Convert.ToInt32(obj.cnt);
+            //change 20 based on the number of people in the table
+            while (i<10)
+           {
+                i++;
+                try
                 {
-                    EmployeeId =1,FirstName=s,LastName="Kalluri", Email="raki.kalluri@gmail.com", Salary=30000, Company="Summit", Dept="IT"
-
-                },
-                new Colleagues()
-                { EmployeeId =2,FirstName="Naresh",LastName="C", Email="Naresh.C@gmail.com", Salary=50000, Company="IBM", Dept="IT" },
-                new Colleagues()
-                { EmployeeId =3,FirstName="Madhu",LastName="K", Email="Madhu.K@gmail.com", Salary=20000, Company="HCl", Dept="IT" },
-                new Colleagues()
-                { EmployeeId =4,FirstName="Ali",LastName="MD", Email="Ali.MD@gmail.com", Salary=26700, Company="Tech Mahindra", Dept="BPO" },
-                new Colleagues()
-                { EmployeeId =5,FirstName="Chithu",LastName="Raju", Email="Chithu.Raju@gmail.com", Salary=25000, Company="Dell", Dept="BPO" },
-                new Colleagues()
-                { EmployeeId =6,FirstName="Nani",LastName="Kumar", Email="Nani.Kumar@gmail.com", Salary=24500, Company="Infosys", Dept="BPO" },
-
-            };
-            return View("ColleaguesView", emp);
-
+                    //get data from specified table and increment through each of the employees
+                    FirebaseResponse resp2 = await client.GetTaskAsync("Employees/" + i);
+                    Colleagues obj2 = resp2.ResultAs<Colleagues>();
+                    DataRow row = dataTable.NewRow();
+                    //addeds the employees data to each row with new data and row each time it goes through the while loop
+                    //make sure the getters and setters names are the same as in the table or a problem will arise
+                    row["Employee Number"] = obj2.EmployeeNumber;
+                    row["First Name"] = obj2.FirstName;
+                    row["Last Name"] = obj2.LastName;
+                    row["Email"] = obj2.Email;
+                    row["Cell Number"] = obj2.CellNumber;
+                    row["Skill"] = obj2.Skill;
+                    dataTable.Rows.Add(row);
+                }
+                catch
+                {
+                    Debug.Write("Fail, You are going to far and their is no more data! ");
+                }
+                
+            }
+            return View("ColleaguesView", dataTable);
+            }
         }
-
-        //[HttpPost]
-        //public ActionResult getEmployeeDetails()
-        //{
-        //    return null;
-        //}
-    }   
-}
+    }

@@ -136,3 +136,52 @@ C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Com
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll.config
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.pdb
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe.config
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.rsp
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.rsp
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.AppContext.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe.config
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.rsp
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CoreCompileInputs.cache
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb

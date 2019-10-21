@@ -136,3 +136,89 @@ C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Com
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll.config
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.pdb
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe.config
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.rsp
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe.config
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.rsp
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.AppContext.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Collections.Immutable.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Console.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Compression.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Reflection.Metadata.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.AccessControl.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Claims.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.ValueTuple.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe.config
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.rsp
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe.config
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Web.Infrastructure.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CoreCompileInputs.cache
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.Extensions.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Net.Http.Extensions.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Net.Http.Primitives.dll
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.Extensions.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Net.Http.Extensions.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Net.Http.Primitives.xml
+F:\PC LOCATIONS\PC locations\Visual Studio GitHub\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.App.config

@@ -4,10 +4,12 @@ using FireSharp.Response;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using Troye_Computer_Systems.Models;
 //This is where i will pull from firebase and store all messages
 namespace Troye_Computer_Systems.Controllers
 {
@@ -37,7 +39,7 @@ namespace Troye_Computer_Systems.Controllers
             int counter = 0;
             int i = 0;
             FirebaseResponse response = await client.GetTaskAsync("Counter/node");
-            Colleagues obj = response.ResultAs<Colleagues>();
+            Communication obj = response.ResultAs<Communication>();
             //this finds out the size of the database with a counter in the table called counter node cnt
             counter = Convert.ToInt32(obj.cnt);
             //change 20 based on the number of people in the table
@@ -48,7 +50,7 @@ namespace Troye_Computer_Systems.Controllers
                 {
                     //get data from specified table and increment through each of the employees
                     FirebaseResponse resp2 = await client.GetTaskAsync("Employees/" + i);
-                    Colleagues obj2 = resp2.ResultAs<Colleagues>();
+                    Communication obj2 = resp2.ResultAs<Communication>();
                     DataRow row = dataTable.NewRow();
                     //addeds the employees data to each row with new data and row each time it goes through the while loop
                     //make sure the getters and setters names are the same as in the table or a problem will arise
@@ -66,7 +68,7 @@ namespace Troye_Computer_Systems.Controllers
                 }
 
             }
-            return View("ColleaguesView", dataTable);
+            return View("CommunicationView", dataTable);
         }
     }
 }

@@ -25,6 +25,28 @@
         }
     </section>
 
+    <table class="table">
+        <thead role="rowgroup">
+            <tr role="row">
+                @foreach (System.Data.DataColumn col in Model.Columns)
+                {
+                    <th role="columnheader">@col.Caption</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (System.Data.DataRow row in Model.Rows)
+            {
+                <tr role="row">
+                    @foreach (var cell in row.ItemArray)
+                    {
+                        <td class="cell">@cell.ToString()</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+
 
     <div>
         @RenderBody()

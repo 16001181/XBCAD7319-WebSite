@@ -205,3 +205,12 @@ C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Compute
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.ServiceStack.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\ServiceStack.Text.dll
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\ServiceStack.Text.xml

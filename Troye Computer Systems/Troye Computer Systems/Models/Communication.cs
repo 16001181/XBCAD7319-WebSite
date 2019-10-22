@@ -13,6 +13,8 @@ namespace Troye_Computer_Systems.Models
         public string EmployeeID { get; set; }
         public string EmployeeName { get; set; }
         public string Time { get; set; }
+        public int cnt { get; set; }
+
 
     }
 }

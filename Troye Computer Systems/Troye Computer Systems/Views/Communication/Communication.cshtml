@@ -10,21 +10,9 @@
     <title>Communication View</title>
 </head>
 <body>
-    <section class="section-dark">
-        @using (Html.BeginForm("postusingparameters", "Contact"))
-        {
-            <br />
-            <h1>Please enter your message below: </h1>
-            <br />
-            <input id="CommMessage" type="text" name="CommMessage" placeholder="Your message here" required="" />
-            <br />
-            <br />
-            <div id="submit-button">
-                <button id="submit" type="submit">Send Message</button>
-            </div>
-        }
-    </section>
 
+    <h1>Messages</h1>
+    <br />
     <table class="table">
         <thead role="rowgroup">
             <tr role="row">
@@ -46,6 +34,26 @@
             }
         </tbody>
     </table>
+
+    <br />
+    <br />
+    <br />
+
+
+    <section class="section-dark">
+        @using (Html.BeginForm("postusingparameters", "Contact"))
+        {
+            <br />
+            <h1>Please enter your message below: </h1>
+            <br />
+            <input id="CommMessage" type="text" name="CommMessage" placeholder="Your message here" required="" />
+            <br />
+            <br />
+            <div id="submit-button">
+                <button id="submit" type="submit">Send Message</button>
+            </div>
+        }
+    </section>
 
 
     <div>

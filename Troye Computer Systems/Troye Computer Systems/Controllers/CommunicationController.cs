@@ -15,19 +15,19 @@ namespace Troye_Computer_Systems.Controllers
 {
     public class CommunicationController : Controller
     {
-        DataTable dataTable = new DataTable("Employees");
+        DataTable dataTable = new DataTable("Communication");
         //public Colleagues g = new Colleagues();
         // GET: Colleagues
         //[RequireHttps]
         [HttpGet]
         public async Task<ActionResult> Index()
         {
-            dataTable.Columns.Add(new DataColumn("Employee Number", typeof(string)));
-            dataTable.Columns.Add(new DataColumn("First Name", typeof(string)));
-            dataTable.Columns.Add(new DataColumn("Last Name", typeof(string)));
-            dataTable.Columns.Add(new DataColumn("Email", typeof(string)));
-            dataTable.Columns.Add(new DataColumn("Cell Number", typeof(string)));
-            dataTable.Columns.Add(new DataColumn("Skill", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("CommunicationID", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("EmployeeID", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("EmployeeName", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("CommunicationMessage", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Date", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Time", typeof(string)));
             //creates connection 3to firebase
             IFirebaseConfig config = new FirebaseConfig
             {
@@ -43,7 +43,7 @@ namespace Troye_Computer_Systems.Controllers
             //this finds out the size of the database with a counter in the table called counter node cnt
             counter = Convert.ToInt32(obj.cnt);
             //change 20 based on the number of people in the table
-            while (i < 10)
+            while (i < 100)
             {
                 i++;
                 try
@@ -55,13 +55,13 @@ namespace Troye_Computer_Systems.Controllers
                     //addeds the employees data to each row with new data and row each time it goes through the while loop
                     //make sure the getters and setters names are the same as in the table or a problem will arise
                     row["CommunicationID"] = obj2.CommunicationID;
-                    row["CommunicationMessage"] = obj2.CommunicationMessage;
+                    row["CommunicationMessage"] = obj2.CommunicationMessage + "                ";
                     row["Date"] = obj2.Date;
                     row["EmployeeID"] = obj2.EmployeeID;
                     row["EmployeeName"] = obj2.EmployeeName;
                     row["Time"] = obj2.Time;
                     dataTable.Rows.Add(row);
-                }
+               }
                 catch
                 {
                     Debug.Write("Fail, You are going to far and their is no more data! ");

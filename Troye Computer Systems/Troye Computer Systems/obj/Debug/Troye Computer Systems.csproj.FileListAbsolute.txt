@@ -136,3 +136,9 @@ C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Com
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml

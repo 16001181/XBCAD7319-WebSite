@@ -49,17 +49,17 @@ namespace Troye_Computer_Systems.Controllers
                 try
                 {
                     //get data from specified table and increment through each of the employees
-                    FirebaseResponse resp2 = await client.GetTaskAsync("Employees/" + i);
+                    FirebaseResponse resp2 = await client.GetTaskAsync("Communication/" + i);
                     Communication obj2 = resp2.ResultAs<Communication>();
                     DataRow row = dataTable.NewRow();
                     //addeds the employees data to each row with new data and row each time it goes through the while loop
                     //make sure the getters and setters names are the same as in the table or a problem will arise
-                    row["Employee Number"] = obj2.EmployeeNumber;
-                    row["First Name"] = obj2.FirstName;
-                    row["Last Name"] = obj2.LastName;
-                    row["Email"] = obj2.Email;
-                    row["Cell Number"] = obj2.CellNumber;
-                    row["Skill"] = obj2.Skill;
+                    row["CommunicationID"] = obj2.CommunicationID;
+                    row["CommunicationMessage"] = obj2.CommunicationMessage;
+                    row["Date"] = obj2.Date;
+                    row["EmployeeID"] = obj2.EmployeeID;
+                    row["EmployeeName"] = obj2.EmployeeName;
+                    row["Time"] = obj2.Time;
                     dataTable.Rows.Add(row);
                 }
                 catch

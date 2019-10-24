@@ -102,17 +102,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="StyleSheet\ProjectEmp.css" />
+    <Content Include="Style Sheet\Colleagues.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ColleaguesController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
-    <Compile Include="Controllers\ProjetControllers.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Model\ProjectModel.cs" />
+    <Compile Include="Models\Colleagues.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -120,8 +120,8 @@
     <None Include="packages.config" />
     <Content Include="Views\Login\Login.cshtml" />
     <Content Include="Views\Login\LoginView.cshtml" />
-    <Content Include="Views\ProjectEmp\ProjectEmp.cshtml" />
-    <Content Include="Views\ProjectEmp\ProjectEmpView.cshtml" />
+    <Content Include="Views\Colleagues\Colleagues.cshtml" />
+    <Content Include="Views\Colleagues\ColleaguesView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -131,7 +131,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

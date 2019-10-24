@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Web;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
-using Troye_Computer_Systems.Model;
+using Troye_Computer_Systems.Models;
 using FireSharp.Config;
 using FireSharp.Interfaces;
 using FireSharp.Response;
@@ -16,23 +16,23 @@ using System.Data;
 
 namespace Troye_Computer_Systems.Controllers
 {
-    public class ProjetControllers : Controller
+    public class ColleaguesController : Controller
     {
-
-        
-        //DataTable dataTable = new DataTable("Employees");
-       
+        //variable declarations
+        DataTable dataTable = new DataTable("Employees");
+        //public Colleagues g = new Colleagues();
+        // GET: Colleagues
+        //[RequireHttps]
         [HttpGet]
         public async Task<ActionResult> Index()
         {
-            //dataTable.Columns.Add(new DataColumn("Employee Number", typeof(string)));
-            //dataTable.Columns.Add(new DataColumn("First Name", typeof(string)));
-            //dataTable.Columns.Add(new DataColumn("Last Name", typeof(string)));
-            //dataTable.Columns.Add(new DataColumn("Email", typeof(string)));
-            //dataTable.Columns.Add(new DataColumn("Cell Number", typeof(string)));
-            //dataTable.Columns.Add(new DataColumn("Skill", typeof(string)));
-
-            //creates connection to firebase
+            dataTable.Columns.Add(new DataColumn("Employee Number", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("First Name", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Last Name", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Email", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Cell Number", typeof(string)));
+            dataTable.Columns.Add(new DataColumn("Skill", typeof(string)));
+            //creates connection 3to firebase
             IFirebaseConfig config = new FirebaseConfig
             {
                 AuthSecret = "3JjYU2MerFoAvR5N5yMOaQv3YdH5orw8skiMdXeW",
@@ -43,7 +43,7 @@ namespace Troye_Computer_Systems.Controllers
             int counter = 0;
             int i = 0;
             FirebaseResponse response = await client.GetTaskAsync("Counter/node");
-            Project obj = response.ResultAs<Project>();
+            Colleagues obj = response.ResultAs<Colleagues>();
             //this finds out the size of the database with a counter in the table called counter node cnt
             counter = Convert.ToInt32(obj.cnt);
             //change 20 based on the number of people in the table
@@ -54,17 +54,17 @@ namespace Troye_Computer_Systems.Controllers
                 {
                     //get data from specified table and increment through each of the employees
                     FirebaseResponse resp2 = await client.GetTaskAsync("Employees/" + i);
-                    Project obj2 = resp2.ResultAs<Project>();
-                   // DataRow row = dataTable.NewRow();
+                    Colleagues obj2 = resp2.ResultAs<Colleagues>();
+                    DataRow row = dataTable.NewRow();
                     //addeds the employees data to each row with new data and row each time it goes through the while loop
                     //make sure the getters and setters names are the same as in the table or a problem will arise
-                    listv = obj2.Company;
-                    row["First Name"] = obj2.Task;
-                    row["Last Name"] = obj2.CustomerID;
-                    row["Email"] = obj2.EmployeeID;
-                    row["Cell Number"] = obj2.Skills;
-                    
-                    //dataTable.Rows.Add(row);
+                    row["Employee Number"] = obj2.EmployeeNumber;
+                    row["First Name"] = obj2.FirstName;
+                    row["Last Name"] = obj2.LastName;
+                    row["Email"] = obj2.Email;
+                    row["Cell Number"] = obj2.CellNumber;
+                    row["Skill"] = obj2.Skill;
+                    dataTable.Rows.Add(row);
                 }
                 catch
                 {

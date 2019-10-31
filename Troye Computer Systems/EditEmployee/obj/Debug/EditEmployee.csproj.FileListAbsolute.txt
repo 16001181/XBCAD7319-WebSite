@@ -78,3 +78,7 @@ C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmploye
 C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\EntityFramework.SqlServer.dll
 C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\EntityFramework.xml
 C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\EntityFramework.SqlServer.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\EditEmployee\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml

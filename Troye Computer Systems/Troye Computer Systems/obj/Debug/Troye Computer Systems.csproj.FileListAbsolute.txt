@@ -180,8 +180,20 @@ C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Compu
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
-C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CoreCompileInputs.cache
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\EntityFramework.dll
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\EntityFramework.SqlServer.dll
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\EntityFramework.xml
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\EntityFramework.SqlServer.xml
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kwand\source\repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Castle.Core.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Castle.Windsor.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Castle.Core.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\bin\Castle.Windsor.xml
+C:\Users\kwand\Source\Repos\XBCAD7319-WebSite\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache

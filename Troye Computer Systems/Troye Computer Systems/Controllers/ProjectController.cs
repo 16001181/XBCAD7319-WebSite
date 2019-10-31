@@ -22,29 +22,18 @@ namespace Troye_Computer_Systems.Controllers
         Object companyName;
         // GET: Project
 
-        private SelectList CompanyName(string[] selectedValues)
+
+
+
+        public ActionResult Indexx(FormCollection form)
         {
-          
-            while (dataTable.Rows.Count > 10)
-            {
-
-
-                companyName = dataTable.Rows[z]["Company"];
-                z++;
-            }
-
-
-            return new SelectList(selectedValues);
+            ViewBag.YouSelected = form["Company"];
+            string selectedValues = form["Company"];
+            ViewBag.CompanyName(selectedValues);
+            return View();
         }
-
-        [HttpPost]
-        //public ActionResult Indexx (FormCollection form)
-        //{
-        //    ViewBag.YouSelected = form["Company"];
-        //    string selectedValues = form["Company"];
-        //    ViewBag.CompanyName(selectedValues);
-        //    return View();
         //}
+        [HttpGet]
         public async Task<ActionResult> Index(FormCollection form)
         {
             //the rows of the database
@@ -58,7 +47,7 @@ namespace Troye_Computer_Systems.Controllers
             //the selection of the items of the company name
             ViewBag.YouSelected = form["Company"];
             string selectedValues = form["Company"];
-            ViewBag.CompanyName(selectedValues);
+           // ViewBag.CompanyName(selectedValues);
 
             //creates connectionfirebase
             IFirebaseConfig config = new FirebaseConfig
@@ -73,7 +62,7 @@ namespace Troye_Computer_Systems.Controllers
             FirebaseResponse response = await client.GetAsync("Counter/node");
             Projects obj = response.ResultAs<Projects>();
             //this finds out the size of the database with a counter in the table called counter node cnt
-            // counter = Convert.ToInt32(obj.cnt);
+            counter = Convert.ToInt32(obj.cnt);
             while (i < 10)
             {
                 i++;
@@ -92,13 +81,13 @@ namespace Troye_Computer_Systems.Controllers
                     row["Sills"] = obj2.Skills;
                     dataTable.Rows.Add(row);
 
-                    //var company = new List<Projects>()
-                    //{
-                    //    new Projects() obj2.Company; 
-                
-                    //};
+                //    var company = new List<Projects>()
+                //    {
+                //        new Projects() obj2.Company;
 
-                }
+                //};
+
+            }
             
                 catch
                 {
@@ -111,8 +100,22 @@ namespace Troye_Computer_Systems.Controllers
                 return View("ProjectView", dataTable);
 
         }
+        private SelectList CompanyName(string[] selectedValues)
+        {
 
-        
+            while (dataTable.Rows.Count > 10)
+            {
+
+
+                companyName = dataTable.Rows[z]["Company"];
+                z++;
+            }
+
+
+            return new SelectList(selectedValues);
+        }
+
+
 
     }
     

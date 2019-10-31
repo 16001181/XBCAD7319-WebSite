@@ -24,52 +24,59 @@
             <a href="#Register" class="tablinks" onclick="openOption(event, 'Register')">Register</a>
             <a href="#Projects" class="tablinks" onclick="openOption(event, 'Projects')">Projects</a>
         </div>
+
+
         <!-- This is section1 of the page-->
         <div class="section2">
             @using (Html.BeginForm("postusingparameters", "Project"))
             {
             <div class="textarea">
-                <p>Current Projects </p>
+             
+                <p>Projects </p>
                 <br />
-                <div class="listAll">
-                    <asp:ListBox ID="listCurrent" runat="server" Width="30%" Height="30%"></asp:ListBox>  <asp:Button ID="btnSelectCurrent" runat="server" Text="View" OnClick="btnSelectCurrent_Click" />
-                </div> 
-                    <br />
-                    <br />
-                    <asp:ListBox ID="listViewCurrent" runat="server" Width="85%" Height="70%" Rows="10"></asp:ListBox>
-                    <br />
-                    <br />
-                    <p>All Projects </p>
-                    <br />
-                    <div class="listAll">
-                        @Html.ListBox("Company", ViewBag.CompanyName as SelectList)
-                    </div>
-                    @*@foreach (System.Data.DataColumn col in Model.Columns){ <asp:ListBox ID="listAll" runat="server" Width="30%" Height="50%" role="columnheader">@col.Caption</asp:ListBox>}*@
-                
-                    <button ID="btnSelectAll" runat="server" type="submit">View</button>
-                    <br />
-                    <br />
-                    <div class="listallView">
-                        @foreach (System.Data.DataRow row in Model.Rows)
+                @*<div class="listAll">
+                @Html.ListBox("Company", ViewBag.CompanyName as SelectList)
+                </div>*@
+              
+                <button ID="btnSelectAll" runat="server" type="submit">View</button>
+                <br />
+                <br />
+                @*<div class="listallView">*@
+            <table class="table">
+                <thead role="rowgroup">
+                    <tr role="row">
+                        @foreach (System.Data.DataColumn col in Model.Columns)
                         {
-
-                            foreach (var cell in row.ItemArray)
+                            <th role="columnheader">@col.Caption</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (System.Data.DataRow row in Model.Rows)
+                    {
+                        <tr role="row">
+                            @foreach (var cell in row.ItemArray)
                             {
-                                @*<asp:ListBox ID="listViewAll" runat="server" Width="85%" Height="70%" Rows="19" role="row">@cell.ToString()</asp:ListBox>*@
-                                <select>
-                                    <option value="taskdetails" role="row">@cell.ToString()</option>
 
-                                </select>
+                                <td class="cell">@cell.ToString()</td>
 
+                              
+                        @*<select >
+                        <option value="taskdetails" role="row">@cell.ToString()</option>
+                        </select>*@
                             }
 
-                        }
-                    </div>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+                    @*</div>*@
 
                     <br />
                     <br />
 
-                </div>
+            </div>
                 }
             </div>
 

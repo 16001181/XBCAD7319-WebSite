@@ -90,3 +90,31 @@ hr {
     width : 85%;
     height : 70%;
 }
+table tr td img.resize {
+    width: 75%;
+}
+
+table, tr, td, th {
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+    padding-right: 10em;
+}
+
+table {
+    font-family: Verdana;
+    font-size: 14px;
+    border-collapse: collapse;
+    width: 75%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+tr:hover td {
+    background-color: lightgray;
+}
+
+tr {
+    border-bottom: 1pt solid black;
+    padding-bottom: 200em;
+}

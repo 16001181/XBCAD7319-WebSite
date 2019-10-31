@@ -12,6 +12,7 @@ namespace Troye_Computer_Systems.Models
         public string EmployeeID { get; set; }
         public string Skills { get; set; }
         public string Task { get; set; }
+        public int cnt { get; set; }
     }
 
     public class CompanyName

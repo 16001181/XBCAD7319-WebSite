@@ -108,6 +108,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Style Sheet\CommunicationStyle.css" />
+    <Content Include="Style Sheet\Project.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -8,9 +8,24 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Communication View</title>
+    <link href="@Url.Content("~/Style Sheet/CommunicationStyle.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Style Sheet/Project.css")" rel="stylesheet" type="text/css" />
 </head>
-<body>
 
+<div class="topBar" style="width:100%; height:10%; position:absolute; background-color:#C4CCDE;left: 0; top:0;float:right; margin-right:0;">
+    <a href="Bathrooms.aspx">TROYE</a>
+</div>
+<br />
+<br />
+<br />
+<div class="sidebar" style="margin-top: auto;">
+    <a href="#AdminSection" class="tablinks" onclick="openOption(event, 'Home')" id="defaultOpen">Home</a>
+    <a href="#Dashboard" class="tablinks" onclick="openOption(event, 'Dashboard')">Dashboard</a>
+    <a href="#Register" class="tablinks" onclick="openOption(event, 'Register')">Register</a>
+    <a href="#Projects" class="tablinks" onclick="openOption(event, 'Projects')">Projects</a>
+</div>
+
+<body>
     <h1>Messages</h1>
     <br />
     <table class="table">
@@ -40,7 +55,7 @@
     <br />
 
 
-    <section class="section-dark">
+    <section class="section-enterMessage">
         @using (Html.BeginForm("postusingparameters", "Contact"))
         {
             <br />
@@ -50,7 +65,7 @@
             <br />
             <br />
             <div id="submit-button">
-                <button id="submit" type="submit">Send Message</button>
+                <button id="submit" align="center" type="submit">Send Message</button>
             </div>
         }
     </section>

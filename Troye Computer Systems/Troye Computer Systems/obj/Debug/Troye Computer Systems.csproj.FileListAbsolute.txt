@@ -201,7 +201,6 @@ C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Compute
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
-C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CoreCompileInputs.cache
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
 C:\Users\Donovan\Documents\XBCAD REPOSITORY\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb

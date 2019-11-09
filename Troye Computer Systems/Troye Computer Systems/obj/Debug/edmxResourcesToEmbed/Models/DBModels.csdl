@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProfileModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="profile">
+    <Key>
+      <PropertyRef Name="empNumber" />
+    </Key>
+    <Property Name="empNumber" Type="Int32" Nullable="false" />
+    <Property Name="empName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="empSurname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="empAge" Type="Int32" />
+    <Property Name="empHomeNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="empAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="empEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="empCellNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ImageIconUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="DBModel" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="profiles" EntityType="Self.profile" />
+  </EntityContainer>
+</Schema>

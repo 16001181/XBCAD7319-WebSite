@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProfileModelStoreContainer" CdmEntityContainer="DBModel">
+    <EntitySetMapping Name="profiles">
+      <EntityTypeMapping TypeName="ProfileModel.profile">
+        <MappingFragment StoreEntitySet="profile">
+          <ScalarProperty Name="empNumber" ColumnName="empNumber" />
+          <ScalarProperty Name="empName" ColumnName="empName" />
+          <ScalarProperty Name="empSurname" ColumnName="empSurname" />
+          <ScalarProperty Name="empAge" ColumnName="empAge" />
+          <ScalarProperty Name="empHomeNumber" ColumnName="empHomeNumber" />
+          <ScalarProperty Name="empAddress" ColumnName="empAddress" />
+          <ScalarProperty Name="empEmail" ColumnName="empEmail" />
+          <ScalarProperty Name="empCellNumber" ColumnName="empCellNumber" />
+          <ScalarProperty Name="ImageIconUrl" ColumnName="ImageIconUrl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

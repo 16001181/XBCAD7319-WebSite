@@ -1,5 +1,4 @@
-﻿
-table tr td img.resize {
+﻿table tr td img.resize {
     width: 50px;
 }
 
@@ -24,7 +23,7 @@ tr:hover td {
 }
 
 tr {
-    border-bottom: 1pt solid black;
+    border-bottom: 1pt solid #f00;
     padding-bottom: 200em;
 }
 

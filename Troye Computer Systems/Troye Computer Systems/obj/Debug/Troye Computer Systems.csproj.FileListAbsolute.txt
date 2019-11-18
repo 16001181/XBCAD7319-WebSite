@@ -142,3 +142,226 @@ C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Com
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
 C:\Users\stewa\Documents\Visual Studio 2019\Programs\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.pdb
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Managed.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.AppContext.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Collections.Immutable.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Console.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Compression.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Reflection.Metadata.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.AccessControl.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Claims.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Principal.Windows.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.ValueTuple.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XmlDocument.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Web.Infrastructure.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.pdb
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Managed.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.AppContext.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Collections.Immutable.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Console.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Compression.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Reflection.Metadata.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.AccessControl.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Claims.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Principal.Windows.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.ValueTuple.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XmlDocument.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.rsp
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe.config
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Web.Infrastructure.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
+G:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll.config
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Troye Computer Systems.pdb
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.exe.config
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csc.rsp
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.exe.config
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\csi.rsp
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.Managed.Core.targets
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.AppContext.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Collections.Immutable.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Console.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Compression.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.IO.Pipes.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Reflection.Metadata.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.AccessControl.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Claims.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Security.Principal.Windows.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.ValueTuple.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XmlDocument.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.exe.config
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\vbc.rsp
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\roslyn\VBCSCompiler.exe.config
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\FireSharp.Serialization.JsonNet.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.Web.Infrastructure.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Newtonsoft.Json.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\RestSharp.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Razor.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Deployment.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Webpages.Razor.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Helpers.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\System.Web.Mvc.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csprojAssemblyReference.cache
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CoreCompileInputs.cache
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.csproj.CopyComplete
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.dll
+D:\XBCAD7319-Main-WebSite-&-Andorid-App\WebSite\XBCAD7319-Website\Troye Computer Systems\Troye Computer Systems\obj\Debug\Troye Computer Systems.pdb

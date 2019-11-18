@@ -7,12 +7,64 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Style Sheet/Login.css")" rel="stylesheet" type="text/css" />
+
     <title>Login</title>
 </head>
 <body>
-    <h1>Testing this branch out on wednesday</h1>
-    <div>
-    @RenderBody()
+
+
+
+    <div class="Login">
+        @using (Html.BeginForm("postusingparameters", "Login"))
+        {
+            <br />
+            <input name="Name" type="Text" placeholder="Name" style="margin-top:0%; background-color:transparent; width:30%; height: 10%; border-top-color:transparent; border-left-color:transparent; border-left-width:thin; border-left-style:solid; border-right-color:transparent;border-bottom-color:#000000; border-bottom-width:thin; margin-left: 65%; " id="username" />
+            <br />
+            <br />
+            <input name="Password" type="password" placeholder="Password" style="width :30%; height: 10%; background-color:transparent; border-top-color:transparent;border-left-color:transparent; border-left-style:solid; border-left-width:thin; border-right-color:transparent;border-bottom-color:#000000; border-bottom-width:thin; margin-left: 65%; " id="Password" />
+            <br />
+            <br />
+            <br />
+            <div>
+                <br />
+                <br />
+                <Button type="submit" id="btnLogin">Login</Button>
+            </div>
+        }
+
+
+
+
+
+        <div class="input">
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <p1>
+                Welcome to Troye.
+            </p1>
+            <br />
+            <br />
+            <p2>
+                <br />
+                <br />
+                <br />
+            </p2>
+            <br />
+            <br />
+            <br />
+
+        </div>
+
     </div>
+    <div>
+        @RenderBody()
+    </div>
+
+
 </body>
+
 </html>

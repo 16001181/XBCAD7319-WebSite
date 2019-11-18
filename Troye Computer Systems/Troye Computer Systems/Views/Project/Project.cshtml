@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <link href="@Url.Content("~/Style Sheet/Project.css")" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Project</title>
+</head>
+<body>
+
+    <div class="topBar" style="width:100%; height:10%; position:absolute; background-color:#C4CCDE;left: 0; top:0;float:right; margin-right:0;">
+        <a href="Bathrooms.aspx">TROYE</a>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="sidebar" style="margin-top: auto;">
+        <a href="Communication" class="tablinks" onclick="openOption('Index','Communication')" id="defaultOpen">Dashboard</a>
+        <a href="Colleagues" class="tablinks" onclick="openOption('Index','Colleagues')" id="defaultOpen">Fellow Colleagues</a>
+        <a href="Project" class="tablinks" onclick="openOption('Index','Project')" id="defaultOpen">Your Projects</a>
+        <a href="Profile" class="tablinks" onclick="openOption('Index','Profile')" id="defaultOpen">Your Profile</a>
+        <a href="Login" class="tablinks" onclick="openOption('Index','Login')" id="defaultOpen">Logout</a>
+    </div>
+
+
+    <!-- This is section1 of the page-->
+    <div class="section2">
+
+        <div class="textarea">
+            <br />
+            <table class="table">
+                <thead role="rowgroup">
+                    <tr role="row">
+                        @foreach (System.Data.DataColumn col in Model.Columns)
+                        {
+                            <th role="columnheader">@col.Caption</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (System.Data.DataRow row in Model.Rows)
+                    {
+                        <tr role="row">
+                            @foreach (var cell in row.ItemArray)
+                            {
+                                <td class="cell">@cell.ToString()</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <br />
+        </div>
+
+    </div>
+
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

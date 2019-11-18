@@ -1,0 +1,70 @@
+﻿body {
+    /*background-color:#ffffff;*/
+    /*background-image: url("9913244c2906439aa465d23d221339e8.jpg");*/
+    background: #DEDEDE;
+    background-size: cover;
+}
+
+
+
+.Login {
+    background-color: #ffffff;
+    width: 1200px;
+    height: 550px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.input {
+    position: absolute;
+    width: 500px;
+    height: 590px;
+    margin-left: 188px;
+    background-color: #9DABC8;
+    top: 80px;
+    margin-bottom: 10px;
+}
+
+
+
+p {
+    margin-top: 20px;
+    margin-right: 430px;
+    text-align: center;
+    font-family: "Century Gothic";
+    font-size: 40px;
+    color: #000000;
+}
+
+p1 {
+    margin-left: 100px;
+    margin-top: 0px;
+    text-align: justify;
+    color: #000000;
+    font-family: "Century Gothic";
+    font-size: 25px;
+}
+
+p2 {
+    margin-left: 100px;
+    margin-top: 0px;
+    text-align: center;
+    color: #000000;
+    font-family: "Century Gothic";
+    font-size: 15px;
+}
+
+button {
+    border-width: thin;
+    margin-left: 65%; 
+    width :375px; 
+    height: 45px; 
+    background-color:#000000; 
+    border-style:solid; 
+    border-width:thin; 
+    font-family:'Century Gothic'; 
+    color:#ffffff; 
+    font-size : 12px;
+    outline-color: #000000; 
+    border-radius:25px;
+}

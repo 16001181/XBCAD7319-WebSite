@@ -103,16 +103,33 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Style Sheet\Colleagues.css" />
+    <Content Include="Style Sheet\CreateProject.css" />
+    <Content Include="Style Sheet\Login.css" />
+    <Content Include="Style Sheet\Profile.css" />
+    <Content Include="Style Sheet\Project.css" />
+    <Content Include="Style Sheet\Register.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ColleaguesAdminController.cs" />
     <Compile Include="Controllers\ColleaguesController.cs" />
+    <Compile Include="Controllers\CommunicationAdminController.cs" />
+    <Compile Include="Controllers\CommunicationController.cs" />
+    <Compile Include="Controllers\CreateProjectController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\ProfileController.cs" />
+    <Compile Include="Controllers\ProjectController.cs" />
+    <Compile Include="Controllers\RegisterController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Communication.cs" />
+    <Compile Include="Models\CreateProject.cs" />
+    <Compile Include="Models\Login.cs" />
     <Compile Include="Models\Colleagues.cs" />
+    <Compile Include="Models\Profile.cs" />
+    <Compile Include="Models\Project.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -122,6 +139,20 @@
     <Content Include="Views\Login\LoginView.cshtml" />
     <Content Include="Views\Colleagues\Colleagues.cshtml" />
     <Content Include="Views\Colleagues\ColleaguesView.cshtml" />
+    <Content Include="Views\Communication\Communication.cshtml" />
+    <Content Include="Views\Communication\CommunicationView.cshtml" />
+    <Content Include="Views\CommunicationAdmin\CommunicationAdmin.cshtml" />
+    <Content Include="Views\CommunicationAdmin\CommunicationAdminView.cshtml" />
+    <Content Include="Views\ColleaguesAdmin\ColleaguesAdmin.cshtml" />
+    <Content Include="Views\ColleaguesAdmin\ColleaguesAdminView.cshtml" />
+    <Content Include="Views\Project\Project.cshtml" />
+    <Content Include="Views\Project\ProjectView.cshtml" />
+    <Content Include="Views\Register\Register.cshtml" />
+    <Content Include="Views\Register\RegisterView.cshtml" />
+    <Content Include="Views\Profile\Profile.cshtml" />
+    <Content Include="Views\Profile\ProfileVIew.cshtml" />
+    <Content Include="Views\CreateProject\CreateProject.cshtml" />
+    <Content Include="Views\CreateProject\CreateProjectView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

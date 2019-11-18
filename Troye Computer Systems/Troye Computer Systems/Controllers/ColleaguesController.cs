@@ -47,7 +47,7 @@ namespace Troye_Computer_Systems.Controllers
             //this finds out the size of the database with a counter in the table called counter node cnt
             counter = Convert.ToInt32(obj.cnt);
             //change 20 based on the number of people in the table
-            while (i < 10)
+            while (i < 20)
             {
                 i++;
                 try

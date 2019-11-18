@@ -1,0 +1,101 @@
+﻿body {
+    background: #eeeeee;
+}
+
+.sidebar {
+    height: 210%;
+    width: 200px;
+    position: fixed;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    background-color: #9dabc8;
+    overflow: auto;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+    .sidebar a {
+        margin-top: 20px;
+        padding: 10px 16px;
+        cursor: pointer;
+        width: 100%;
+        float: left;
+        text-decoration: none;
+        font-size: 20px;
+        color: #000000;
+        background-color: transparent;
+        display: block;
+    }
+
+        .sidebar a:hover {
+            color: #ffffff;
+        }
+
+        .sidebar a.active {
+            background-color: #ccc;
+        }
+
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
+
+h1 {
+    font-family: "Century Gothic";
+    font-size: x-large;
+}
+
+hr {
+    border-color: #000000;
+    border-width: thin;
+}
+
+@media screen and (max-height: 450px) {
+    .sidebar {
+        padding-top: 15px;
+    }
+
+        .sidebar a {
+            font-size: 18px;
+        }
+}
+
+.topBar a {
+    float: right;
+    margin-right: 70px;
+    color: #000000;
+    text-decoration: none;
+    font-size: 42px;
+}
+th {
+    height: 50px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 0px solid #ffffff;
+    border-bottom-color: #eeeeee;
+    border-top-color: #eeeeee;
+    border-bottom-width: 1px;
+    text-align: left;
+}
+
+td {
+    height: 30px;
+    border: 0px solid #eeeeee;
+    border-bottom-color: #eeeeee;
+    border-top-color: #eeeeee;
+    border-bottom-width: 1px;
+}
+
+table {
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-color: #ffffff;
+    border-width: 0px;
+}
+element.style {
+    margin-top: 40px;
+}
